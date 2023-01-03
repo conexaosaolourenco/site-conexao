@@ -21,6 +21,8 @@ Este site está sendo montado com as tecnologias:
 - [REACTJS] - Para o front-end!
 - [PYTHON] - Para o back-end
 
+Você pode conferir o preview do site em: https://site-conexao.vercel.app/
+
 ## Contato
 
 Dúvidas ou sugestões sobre o projeto? Entre em contato conosco!
