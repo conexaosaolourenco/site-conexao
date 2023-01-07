@@ -1,10 +1,11 @@
 import './App.css';
+import mainImage from './370.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Site em Desenvolvimento</h1>
+        <img src={mainImage} className="Main-Slider" alt="Conexão" width={300} />
       </header>
     </div>
   );
